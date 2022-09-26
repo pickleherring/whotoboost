@@ -1,4 +1,4 @@
-matplotlin==3.5
+matplotlib==3.5
 pandas
 plotnine
 python-dotenv
